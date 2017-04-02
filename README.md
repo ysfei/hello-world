@@ -1,2 +1,2 @@
 # hello-world
-Just a respository
+This repository is for tests and experiments.
