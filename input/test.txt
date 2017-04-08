@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4a0cc65d07fb627a4392ef16ff64ec1fa8639a7fc5e7b8e347bb118eccbb602c
-size 37
+ Add another directory and text file. 
